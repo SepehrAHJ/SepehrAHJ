@@ -39,18 +39,20 @@ I thrive on solving complex problems, optimizing AI models, and deploying scalab
 
 ## 📊 Activity Dashboard
 
-<div align="center">
+<div align="center" style="width: 65%; margin: 0 auto;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SepehrAHJ&show_icons=true&hide_border=true&bg_color=263238&title_color=ECEFF1&icon_color=607D8B&text_color=90A4AE&hide=contribs&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SepehrAHJ&show_icons=true&hide_border=true&bg_color=263238&title_color=ECEFF1&icon_color=607D8B&text_color=90A4AE&hide=contribs&count_private=true&include_all_commits=true">
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=SepehrAHJ&hide_border=true&background=263238&fire=607D8B&currStreakLabel=ECEFF1&currStreakNum=ECEFF1&ring=607D8B&stroke=ECEFF1&sideNums=ECEFF1&sideLabels=ECEFF1&dates=90A4AE" width="48%">
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrAHJ&layout=compact&hide_border=true&bg_color=263238&title_color=ECEFF1&text_color=90A4AE" width="48%">
+  <img src="https://streak-stats.demolab.com?user=SepehrAHJ&hide_border=true&background=263238&fire=607D8B&currStreakLabel=ECEFF1&currStreakNum=ECEFF1&ring=607D8B&stroke=ECEFF1&sideNums=ECEFF1&sideLabels=ECEFF1&dates=90A4AE">
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SepehrAHJ&hide_border=true&bg_color=263238&color=ECEFF1&line=607D8B&point=90A4AE&area=true&area_color=607D8B" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SepehrAHJ&hide_border=true&bg_color=263238&color=ECEFF1&line=607D8B&point=90A4AE&area=true&area_color=607D8B">
+</div>
+
+<!-- Top Languages - Left Aligned -->
+<div align="left" style="width: 48%; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrAHJ&layout=compact&hide_border=true&bg_color=263238&title_color=ECEFF1&text_color=90A4AE&langs_count=8&size_weight=0.5&exclude_repo=github-readme-stats">
 </div>
 
 ---
@@ -58,14 +60,10 @@ I thrive on solving complex problems, optimizing AI models, and deploying scalab
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sepehr-ahmadi-208984150">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="40">
   </a>
   <a href="https://kaggle.com/sepehrahj">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
 
 </p>
 
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SepehrAHJ&label=Profile+Views&color=blueviolet&style=flat-square">
-</div>
