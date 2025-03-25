@@ -39,21 +39,29 @@ I thrive on solving complex problems, optimizing AI models, and deploying scalab
 
 ## 📊 Activity Dashboard
 
-<div align="center" style="width: 65%; margin: 0 auto;">
+<div style="width: 65%; margin: 0 auto; text-align: left;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SepehrAHJ&show_icons=true&hide_border=true&bg_color=263238&title_color=ECEFF1&icon_color=607D8B&text_color=90A4AE&hide=contribs&count_private=true&include_all_commits=true">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=SepehrAHJ&show_icons=true&hide_border=true&bg_color=263238&title_color=ECEFF1&icon_color=607D8B&text_color=90A4AE&hide=contribs&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  </div>
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=SepehrAHJ&hide_border=true&background=263238&fire=607D8B&currStreakLabel=ECEFF1&currStreakNum=ECEFF1&ring=607D8B&stroke=ECEFF1&sideNums=ECEFF1&sideLabels=ECEFF1&dates=90A4AE">
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SepehrAHJ&hide_border=true&bg_color=263238&color=ECEFF1&line=607D8B&point=90A4AE&area=true&area_color=607D8B">
+  <div>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=SepehrAHJ&hide_border=true&background=263238&fire=607D8B&currStreakLabel=ECEFF1&currStreakNum=ECEFF1&ring=607D8B&stroke=ECEFF1&sideNums=ECEFF1&sideLabels=ECEFF1&dates=90A4AE" alt="Streak Stats">
+  </div>
 </div>
 
 <!-- Top Languages - Left Aligned -->
 <div align="left" style="width: 48%; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrAHJ&layout=compact&hide_border=true&bg_color=263238&title_color=ECEFF1&text_color=90A4AE&langs_count=8&size_weight=0.5&exclude_repo=github-readme-stats">
 </div>
+  
+</div>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SepehrAHJ&hide_border=true&bg_color=263238&color=ECEFF1&line=607D8B&point=90A4AE&area=true&area_color=607D8B">
+</div>
+
 
 ---
 
